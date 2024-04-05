@@ -65,4 +65,5 @@ These evaluation metrics provide insights into the performance of the model in b
 - Sample images from the dataset are selected, and their original gender and age labels are compared with the model's predicted labels.
 - The images along with their original and predicted labels are displayed for qualitative assessment of the model's performance.
 
-In summary, this project demonstrates the end-to-end process of building a deep learning model for age and gender prediction from facial images, encompassing data preprocessing, model construction, training, evaluation, and inference.
+### CONCLUSION:
+This project demonstrates the end-to-end process of building a deep learning model for age and gender prediction from facial images, encompassing data preprocessing, model construction, training, evaluation, and inference.
